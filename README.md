@@ -4,7 +4,7 @@
 >
 > By Naga Rajasekhar
 
-You can find the live deployment link of this web page here --> **[#](#)**
+You can find the live deployment link of this web page here --> **[Live Deployment Link](https://crushthecompetition.netlify.app/)**
 <br/>
 <br/>
 <br/>
